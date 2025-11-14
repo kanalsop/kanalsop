@@ -3,7 +3,7 @@ Hi, I'm Kanata Hirata, undergraduate student in Kyushu University.
 I am currently working on Software Engineering.
 
 ## 🌐 Links
-My Page: #TODO  
+My Page: [Kanata Hirata](https://posl.ait.kyushu-u.ac.jp/~hirata/)
 My Lab: [POSL Research Group](https://posl.ait.kyushu-u.ac.jp/ja/)
 
 

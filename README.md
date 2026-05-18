@@ -1,5 +1,5 @@
 # README
-Hi, I'm Kanata Hirata, undergraduate student in Kyushu University.
+Hi, I'm Kanata Hirata, graduate student in Kyushu University.
 I am currently working on Software Engineering.
 
 ## 🌐 Links

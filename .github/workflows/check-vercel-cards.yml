@@ -1,0 +1,28 @@
+name: Check Vercel README Cards
+
+on:
+  schedule:
+    # Every Monday at 09:00 JST.
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - "README.md"
+      - ".github/scripts/check-vercel-cards.sh"
+      - ".github/workflows/check-vercel-cards.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  check-vercel-cards:
+    name: Check Vercel card endpoints
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Check Vercel card endpoints
+        run: bash .github/scripts/check-vercel-cards.sh

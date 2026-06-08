@@ -13,3 +13,5 @@ My Lab: [POSL Research Group](https://posl.ait.kyushu-u.ac.jp/ja/)
   <img alt="GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kanalsop&show_icons=true" />
 </p>
 
+## 📈 Contribution Graph
+[![Kanata's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kanalsop&theme=github-compact&hide_border=true)](https://github.com/kanalsop)
